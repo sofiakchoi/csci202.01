@@ -1,0 +1,183 @@
+body {
+    width: 95%;
+    margin: 0 ;
+}
+
+.section {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    gap: 30px;
+    padding-top: 0;
+}
+
+hr {
+    border-bottom: 1.5px solid #4FA061;
+    border-top: 0px solid #4FA061;
+}
+
+.left {
+    border-right: 1.5px solid #4FA061;
+    height: 100vh;
+    background-image: url('https://live.staticflickr.com/65535/54443400207_0149d20964_o.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.right{
+    padding-top: 0;
+}
+
+nav {
+    margin: 25px;
+    margin-left: 0px;
+    text-align: left;
+}
+
+nav a {
+    text-decoration: none;
+    color: #000;
+    text-align: right;
+    font-family: "IBM Plex Mono";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+nav a:hover {
+    text-decoration: none;
+    color: #4FA061;
+    text-align: right;
+    font-family: "IBM Plex Mono";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+nav ul {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+h2 {
+    font-family: neue-haas-grotesk-display, sans-serif;
+    font-weight: 500;
+    color: #4FA061;
+    font-size: 24px;
+
+}
+
+dt {
+    font-family: neue-haas-grotesk-display, sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+
+}
+
+
+dt a{
+    font-family: neue-haas-grotesk-display, sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    text-decoration: none;
+    color: #000;
+}
+
+dt a:hover{
+    font-family: neue-haas-grotesk-display, sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    color: #4FA061;
+
+}
+
+dd{
+    font-family: neue-haas-grotesk-display, sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    color: #000;
+}
+
+.Baldwin{
+    background-image: url('https://live.staticflickr.com/65535/54444258206_cd564d4850_o.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 25px;
+}
+
+.Thousand{
+    background-color: #497450;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 25px;
+}
+
+.Task{
+    background-image: url('https://live.staticflickr.com/65535/54444258151_709dba106f_o.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 25px;
+}
+
+.Oil{
+    background-image: url('https://live.staticflickr.com/65535/54444823570_267c0faf5e_o.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 25px;
+}
+
+.Hanae{
+    background-image: url('https://live.staticflickr.com/65535/54444421076_59254df4dc_o.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 25px;
+}
+
+.Orange{
+    background-image: url('https://live.staticflickr.com/65535/54444660458_e0cffc5b17_o.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 25px;
+}
+
+.Elevator{
+    background-image: url('https://live.staticflickr.com/65535/54444420021_449d46e346_o.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 25px;
+}
+
+.Teresa{
+    background-image: url('https://live.staticflickr.com/65535/54444419861_e0be766192_o.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 25px;
+}
+
+.Teresa a{
+    font-family: neue-haas-grotesk-display, sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    text-decoration: none;
+    color: #000;
+}
+
+.Teresa a:hover{
+    font-family: neue-haas-grotesk-display, sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    color: #fff;
+}
+
+.Pain{
+    background-image: url('https://live.staticflickr.com/65535/54443561447_517ff0a7a2_o.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 25px;
+}
+
+p{
+    font-family: neue-haas-grotesk-display, sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    color: #000;
+}
